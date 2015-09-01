@@ -1,2 +1,2 @@
 # citest
-Continuous deployment using GitHub in Octane
+Example of continuous deployment using GitHub in Octane
